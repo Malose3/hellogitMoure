@@ -1,3 +1,16 @@
+# Fork de aprendizaje · Git y GitHub
+
+Este repositorio es un fork de [mouredev/mouredev](https://github.com/mouredev/mouredev), conservado como material de aprendizaje. No es un proyecto propio de producto.
+
+**La biografía, la experiencia, las tecnologías y los enlaces del contenido original pertenecen a Brais Moure (MoureDev), no a Manuel López Serrano.** El archivo `hello.md` contiene una anotación de práctica.
+
+No requiere instalación. No forma parte de mis proyectos destacados y no acredita dominio de las tecnologías enumeradas en el perfil original.
+
+[Ver mi portfolio actual](https://github.com/Malose3)
+
+<details>
+<summary>Contenido original del autor, conservado con atribución</summary>
+
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Brais Moure 👋
 ### Freelance full-stack iOS & Android engineer
 
@@ -157,3 +170,5 @@ Y alguna más...
 [![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
 </br>
 [![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+
+</details>
